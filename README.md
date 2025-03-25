@@ -6,7 +6,7 @@
 
 ## 📑 Table of Contents
 
-- [📦 项目简介（About the Dataset）](#项目简介about-the-dataset)
+- [📦 项目简介（About the Dataset）](##项目简介about-the-dataset)
 - [🧹 数据清洗（Data Cleaning）](#数据清洗data-cleaning)
 - [🔁 用户复购分析（Repurchase Rate Analysis）](#用户复购分析repurchase-rate-analysis)
   - [整体复购率](#整体复购率)
