@@ -1,6 +1,6 @@
 # 电商数据分析项目
 
-> 跨国零售客户行为分析与价值挖掘系统，涵盖数据清洗、复购率分析、RFM分层、产品聚类、客户分群及分类器发全流程。
+> 跨国零售客户行为分析与价值挖掘系统，涵盖数据清洗、复购率分析、RFM分层、产品聚类、客户分群及分类器全流程。
 
 ---
 ## 项目亮点
@@ -9,8 +9,8 @@
 - **复购率趋势分析**：计算月度/季度复购率与环比增长（SQL）
 - **动态RFM分层**：Tableau构建可交互客户价值看板
 - **产品智能分类**：TF-IDF + K-Means聚类（6类）与词云分析
-- **客户价值分群**：MiniBatchK-Means划分7类客户群体,Matplotlib/Seaborn可视化，
-  定位超级VIP客户（0.77%群体贡献32%营收），设计定制化营销策略。
+- **客户价值分群**：结合产品分类特征基于MiniBatchK-Means划分7类客户群体，
+  通过Matplotlib/Seaborn可视化，定位超级VIP客户（0.77%群体贡献32%营收），设计定制化营销策略。
 ### 2. 技术实现
 - E_commerce_Customer_Analytics.ipynb
 ### 3. 关键成果
@@ -36,7 +36,7 @@
 - [产品聚类分析（Product Clustering）](#产品聚类分析product-clustering)
 - [客户聚类分析（Customer Segmentation）](#客户聚类分析customer-segmentation)
 - [分类器建模（Customer Classification Model）](#分类器建模customer-classification-model)
-- [⚖模型对比与最终选择（Model Comparison & Final Result）](#模型对比与最终选择model-comparison--final-result)
+- [模型对比与最终选择（Model Comparison & Final Result）](#模型对比与最终选择model-comparison--final-result)
 - [结论与未来方向（Conclusion & Future Work）](#结论与未来方向conclusion--future-work)
 
 ---
