@@ -121,7 +121,7 @@
 
 ## 项目链接
 
-- ⚙️ **Colab Notebook（可运行）:** [https://colab.research.google.com/drive/1vRTaGIhQDwMnMSqAsJXhF77Fmis4dejV?usp=sharing](#)
+- ⚙️ **Colab Notebook（可运行）:[https://colab.research.google.com/drive/1vRTaGIhQDwMnMSqAsJXhF77Fmis4dejV?usp=sharing]
 
 ---
 
