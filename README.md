@@ -6,7 +6,7 @@
 
 ## 📑 Table of Contents
 
-- [📦 项目简介（About the Dataset）](##(https://github.com/qwqw16/E-commerce-Customer-Analytics/blob/main/README.md#-%E9%A1%B9%E7%9B%AE%E7%AE%80%E4%BB%8Babout-the-dataset))
+- [📦 项目简介（About the Dataset）](#(https://github.com/qwqw16/E-commerce-Customer-Analytics/blob/main/README.md#-%E9%A1%B9%E7%9B%AE%E7%AE%80%E4%BB%8Babout-the-dataset))
 - [🧹 数据清洗（Data Cleaning）](#数据清洗data-cleaning)
 - [🔁 用户复购分析（Repurchase Rate Analysis）](#用户复购分析repurchase-rate-analysis)
   - [整体复购率](#整体复购率)
