@@ -24,15 +24,15 @@
 - [数据清洗（Data Cleaning）](#数据清洗data-cleaning)
 - [数据探索（Data Understanding）](#数据探索Data-Understanding)
   - [用户复购分析（Repurchase Rate Analysis）](#用户复购分析repurchase-rate-analysis)
-    - [整体复购率](#整体复购率)
-    - [每月复购率](#每月复购率)
-    - [环比增长 MoM](#环比增长-mom)
-    - [季度环比增长 QoQ](#季度环比增长-qoq)
+    - [整体复购率](#用户复购分析repurchase-rate-analysis)
+    - [每月复购率](#用户复购分析repurchase-rate-analysis)
+    - [环比增长 MoM](#用户复购分析repurchase-rate-analysis)
+    - [季度环比增长 QoQ](#用户复购分析repurchase-rate-analysis)
   - [Tableau 可视化分析](#tableau-可视化分析)
-    - [每月复购率折线图](#每月复购率折线图)
-    - [RFM 客户价值分析](#rfm-客户价值分析)
-    - [动态 RFM 分层](#动态-rfm-分层)
-    - [客户地理分布地图](#客户地理分布地图)
+    - [每月复购率折线图](#tableau-可视化分析)
+    - [RFM 客户价值分析](#tableau-可视化分析)
+    - [动态 RFM 分层](#tableau-可视化分析)
+    - [客户地理分布地图](#tableau-可视化分析)
 - [产品聚类分析（Product Clustering）](#产品聚类分析product-clustering)
 - [客户聚类分析（Customer Segmentation）](#客户聚类分析customer-segmentation)
 - [分类器建模（Customer Classification Model）](#分类器建模customer-classification-model)
@@ -63,9 +63,10 @@
 
 ---
 ## 数据探索（Data Understanding）
-- 在数据探索阶段，我们使用 SQL 查询 来分析客户的购买行为模式，特别关注 复购率（Repurchase Rate） 和 增长趋势（MoM、QoQ）。
+- 在数据探索阶段，
+- 使用 SQL 查询 来分析客户的购买行为模式，特别关注 复购率（Repurchase Rate） 和 增长趋势（MoM、QoQ）。
+- 利用 Tableau 进行了初步的数据分析，以更直观地理解客户行为、复购模式以及用户价值分层。
 
-  
 ---
 ### 用户复购分析（Repurchase Rate Analysis）
 
