@@ -1,10 +1,20 @@
-# 🛒 E-commerce Customer Analytics & Machine Learning Project
+# 🛒 电商数据分析项目
 
-> 🎯 A full-stack data analytics & ML project that uncovers customer insights, predicts churn, and visualizes business performance using SQL, Python, and Tableau.
+> 跨国零售客户行为分析与价值挖掘系统，涵盖数据清洗、复购率分析、RFM分层、产品聚类、客户分群及分类器发全流程。
 
 ---
+## 项目亮点
 
-## 📑 Table of Contents
+### 1. 核心分析能力
+- **复购率趋势分析**：计算月度/季度复购率与环比增长（SQL）
+- **动态RFM分层**：Tableau构建可交互客户价值看板
+- **产品智能分类**：TF-IDF + K-Means聚类（6类）与词云分析
+- **客户价值分群**：MiniBatchK-Means划分7类客户群体,Matplotlib/Seaborn可视化，
+  定位超级VIP客户（0.77%群体贡献32%营收），设计定制化营销策略。
+### 2. 技术实现
+- 
+---
+## 📑 项目目录
 
 - [项目简介（About the Dataset）](#项目简介about-the-dataset)
 - [数据清洗（Data Cleaning）](#数据清洗data-cleaning)
