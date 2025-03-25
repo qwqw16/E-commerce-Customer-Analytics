@@ -1,29 +1,28 @@
-# 跨国零售客户行为分析与价值挖掘
-
+# 🛒 E-commerce Customer Analytics & Machine Learning Project
 
 > 🎯 A full-stack data analytics & ML project that uncovers customer insights, predicts churn, and visualizes business performance using SQL, Python, and Tableau.
 
 ---
 
-## 📑 项目目录
+## 📑 Table of Contents
 
-- [📦 项目简介（About the Dataset）]
-- [🧹 数据清洗（Data Cleaning）]
-- [🔁 用户复购分析（Repurchase Rate Analysis）]
-  - [整体复购率]
-  - [每月复购率]
-  - [环比增长 MoM]
-  - [季度环比增长 QoQ]
-- [📊 Tableau 可视化分析]
-  - [每月复购率折线图]
-  - [RFM 客户价值分析]
-  - [动态 RFM 分层]
-  - [客户地理分布地图]
-- [📦 产品聚类分析（Product Clustering）]
-- [👥 客户聚类分析（Customer Segmentation）]
-- [📈 分类器建模（Customer Classification Model）]
-- [⚖️ 模型对比与最终选择（Model Comparison & Final Result）]
-- [✅ 结论与未来方向（Conclusion & Future Work）]
+- [📦 项目简介（About the Dataset）](#项目简介about-the-dataset)
+- [🧹 数据清洗（Data Cleaning）](#数据清洗data-cleaning)
+- [🔁 用户复购分析（Repurchase Rate Analysis）](#用户复购分析repurchase-rate-analysis)
+  - [整体复购率](#整体复购率)
+  - [每月复购率](#每月复购率)
+  - [环比增长 MoM](#环比增长-mom)
+  - [季度环比增长 QoQ](#季度环比增长-qoq)
+- [📊 Tableau 可视化分析](#tableau-可视化分析)
+  - [每月复购率折线图](#每月复购率折线图)
+  - [RFM 客户价值分析](#rfm-客户价值分析)
+  - [动态 RFM 分层](#动态-rfm-分层)
+  - [客户地理分布地图](#客户地理分布地图)
+- [📦 产品聚类分析（Product Clustering）](#产品聚类分析product-clustering)
+- [👥 客户聚类分析（Customer Segmentation）](#客户聚类分析customer-segmentation)
+- [📈 分类器建模（Customer Classification Model）](#分类器建模customer-classification-model)
+- [⚖️ 模型对比与最终选择（Model Comparison & Final Result）](#模型对比与最终选择model-comparison--final-result)
+- [✅ 结论与未来方向（Conclusion & Future Work）](#结论与未来方向conclusion--future-work)
 
 ---
 
@@ -59,7 +58,7 @@
 
 ## 📊 Tableau 可视化分析
 
-> 🔗 查看可视化仪表板：
+> 🔗 查看可视化仪表板：[👉 Tableau Dashboard 链接（可选）](#)
 
 - **每月复购率折线图**
 - **RFM 客户分层图（高价值用户识别）**
@@ -124,7 +123,9 @@
 
 ## 🔗 项目链接
 
-- ⚙️ **Colab Notebook（可运行）:** [(https://colab.research.google.com/drive/1vRTaGIhQDwMnMSqAsJXhF77Fmis4dejV?usp=sharing)](#)
+- 📂 **GitHub Repo:** [github.com/yourusername/ecommerce-customer-analytics](https://github.com/yourusername/ecommerce-customer-analytics)
+- 📊 **Tableau Dashboard:** [public.tableau.com/profile/you](#)
+- ⚙️ **Colab Notebook（可运行）:** [colab.research.google.com/drive/...](#)
 
 ---
 
