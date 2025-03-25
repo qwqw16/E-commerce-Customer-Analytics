@@ -22,7 +22,7 @@
 
 - [项目简介（About the Dataset）](#项目简介about-the-dataset)
 - [数据清洗（Data Cleaning）](#数据清洗data-cleaning)
-- [数据理解（Data Understanding）]
+- [数据探索（Data Understanding）](#数据探索Data-Understanding)
   - [用户复购分析（Repurchase Rate Analysis）](#用户复购分析repurchase-rate-analysis)
     - [整体复购率](#整体复购率)
     - [每月复购率](#每月复购率)
@@ -62,7 +62,9 @@
 - 标准化金额、时间等字段，准备建模所需数据结构
 
 ---
-
+## 数据探索（Data Understanding）
+- 在数据探索阶段，我们使用 SQL 查询 来分析客户的购买行为模式，特别关注 复购率（Repurchase Rate） 和 增长趋势（MoM、QoQ）。
+---
 ## 用户复购分析（Repurchase Rate Analysis）
 
 - 计算整体复购率（一次及以上）
