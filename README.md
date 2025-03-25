@@ -64,8 +64,10 @@
 ---
 ## 数据探索（Data Understanding）
 - 在数据探索阶段，我们使用 SQL 查询 来分析客户的购买行为模式，特别关注 复购率（Repurchase Rate） 和 增长趋势（MoM、QoQ）。
+
+  
 ---
-## 用户复购分析（Repurchase Rate Analysis）
+### 用户复购分析（Repurchase Rate Analysis）
 
 - 计算整体复购率（一次及以上）
 - 每月复购率趋势折线图 
@@ -73,7 +75,7 @@
 
 ---
 
-## Tableau 可视化分析
+### Tableau 可视化分析
 
 - **每月复购率折线图**
 - **RFM 客户分层图（高价值用户识别）**
