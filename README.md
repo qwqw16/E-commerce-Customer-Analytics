@@ -57,6 +57,9 @@
 ---
 
 ## 数据清洗（Data Cleaning）
+```
+data_clean.ipynb
+```
 ### 发现的问题
 
 1.   数据缺失
