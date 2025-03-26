@@ -3,11 +3,7 @@
 > 跨国零售客户行为分析与价值挖掘系统，涵盖数据清洗、复购率分析、RFM分层、产品聚类、客户分群及分类器全流程。
 
 ```python
-# 读取数据示例
-import pandas as pd
-
-df = pd.read_csv("data.csv")
-print(df.head())
+tableau.iqynb
 ```
 ---
 ## 项目亮点
