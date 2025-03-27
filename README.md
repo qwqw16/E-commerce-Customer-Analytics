@@ -184,9 +184,34 @@ tableau.iqynb
 
 ## 产品聚类分析（Product Clustering）
 
-- 通过销量、复购率、退货率进行 KMeans 聚类
-- 辨别高价值产品、流行款与退货高风险产品
-- 图形展示聚类分布与中心点趋势
+### 目标
+*   识别不同类型的产品类别
+*   了解各类别产品的特点
+*   通过聚类方法对产品进行分类，以便更好地进行市场分析和推荐
+### 数据预处理
+*   去除空值：删除无 Description 的记录
+*   文本标准化：转换为小写，移除特殊字符，进行分词、去除停用词，词干化（Stemming）
+
+### 采用的方法
+*   TF-IDF 向量化：为了进行文本分析，我们使用 TF-IDF（词频-逆文档频率） 方法，将产品描述转换为向量。选择了 1,000 个高频词 作为特征输入。
+*   K-Means 聚类：为了对产品进行分类，我们采用 MiniBatchKMeans 进行聚类，并使用 肘部法则（Elbow Method） 选择最佳簇数。
+*   K 值范围： 2 ~ 10
+*   评估指标： SSE（误差平方和）和 Silhouette Score（轮廓系数）
+  
+### 最终选择最佳 K 值：6
+
+
+### 结果分析
+*   聚类结果
+*   词云分析
+*   为进一步理解各个类别的主要产品，使用 词云（WordCloud） 可视化产品类别的关键词：
+
+*   Cluster 0：包含 "babushka", "boxes"
+*   Cluster 1：包含 "lantern", "hand warmer"
+*   Cluster 2：包含 "bird ornament"
+*   Cluster 3：包含 "glass", "star", "frosted"
+*   Cluster 4：包含 "woolly", "hottie"
+*   Cluster 5：包含 "heart", "t-light holder"
 
 ---
 
