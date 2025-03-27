@@ -142,7 +142,6 @@ sql/按季度计算环比增长（QoQ Growth）.sql
 ```
 tableau.iqynb
 ```
-
 #### 每月复购率折线图
 - 趋势描述：
 - 2011年12月复购率骤降至 21.87%，可能是节假日前后用户活跃度下降或库存消耗完毕。
@@ -374,6 +373,10 @@ Customer_Segmentation.ipynb
 ---
 
 ## 分类器建模（Customer Classification Model）
+```
+Model_Training.ipynb
+```
+
 上一步基于客户的购买行为进行了 K-Means 客户聚类分析，在这一部分将进一步使用机器学习分类器对客户类别进行预测。
 
 ### 目标
