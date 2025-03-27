@@ -40,7 +40,7 @@
   - [投票器优化](#投票器优化)
   - [投票器性能评估](#投票器性能评估)
   - [结果分析](#结论)
-- [后续优化方向](#后续优化方向)
+- [后续优化方向（Future Optimization Directions）](#后续优化方向Future-Optimization-Directions)
 - [项目链接(Google Colab)](#项目链接)
 
 ---
@@ -463,7 +463,7 @@ Model_Training.ipynb
   
 ---
 
-## 后续优化方向
+## 后续优化方向（Future Optimization Directions）
 *   特征优化：尝试更多特征工程，如加入时间维度特征、客户行为模式分析。
 *   模型优化：测试更多的集成学习方法，如 Stacking、XGBoost、CatBoost 等。
 *   业务应用：结合 动态 RFM 分层，优化客户营销策略。
