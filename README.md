@@ -1,6 +1,10 @@
 # 电商客户分析与分群系统  
 E-commerce Customer Analytics & Segmentation Framework
 
+## 项目链接
+
+- ⚙️ **Colab Notebook:(https://colab.research.google.com/drive/17lphWOxqQuZ0QbOq7qWPlAgpNosKBaCu?usp=sharing)
+
 ---
 
 ## 项目概述
